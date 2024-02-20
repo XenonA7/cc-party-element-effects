@@ -1,6 +1,6 @@
 {
 	"id": "party-element-effects",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"title": {
 		"en_US": "Party Element Effects",
 		"de_DE": "Party Element Effects",
@@ -20,8 +20,8 @@
 		"ko_KR": "Shows the proper effect when party members swap elements"
 	},
 	"repository": "https://github.com/XenonA7/cc-party-element-effects",
-	"tags": ["cosmetic"],
-	"authors": "xenon",
+	"tags": ["cosmetic", "party member"],
+	"authors": "XenonA7",
 	"icons": {
    	 	"24": "icon.png"
   	},
